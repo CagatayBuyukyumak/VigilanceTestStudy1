@@ -1,0 +1,271 @@
+﻿position,cue_id,valence,text
+1,NEG_40,negative,Sınavlara çalışmak
+2,NEG_39,negative,Yaralanma
+3,POS_70,positive,Sevgi belirtileri
+4,NEG_29,negative,Kaza yeri
+5,POS_23,positive,Açık gökyüzü
+6,NEG_87,negative,Mağdur olmak
+7,NEG_42,negative,Başarısızlık
+8,NEU_01,neutral,Monitör
+9,NEU_28,neutral,Ayakkabı boyası
+10,NEG_58,negative,Alay edilmek
+11,NEU_19,neutral,Aile hekimi
+12,NEU_13,neutral,Kağıt havlu satın almak
+13,NEG_13,negative,Rahatsızlık hissi
+14,NEG_38,negative,Hastalığa yakalanmak
+15,NEG_32,negative,Silahlı soygun
+16,POS_87,positive,Mutlu insanlar
+17,NEU_75,neutral,Çubuk
+18,NEU_76,neutral,Dolap
+19,POS_20,positive,Para bulmak
+20,NEU_89,neutral,Yolun orta kısmı
+21,POS_62,positive,Karlı bir iş
+22,POS_76,positive,Müzeyi ziyaret etmek
+23,NEG_60,negative,Yeme bozuklukları
+24,NEU_31,neutral,Tramvay şoförü
+25,POS_66,positive,Eve dönmek
+26,NEG_48,negative,Öfkeli kadın komşu
+27,POS_43,positive,Uzun hafta sonu
+28,NEU_87,neutral,Temizlik malzemesi satın almak
+29,POS_82,positive,Parıldayan yıldız
+30,POS_46,positive,Aile buluşması
+31,NEU_84,neutral,Beyaz zarf
+32,POS_41,positive,Pelüş oyuncak
+33,NEG_24,negative,Trajedi
+34,NEG_10,negative,Ayrılma süreci
+35,NEG_75,negative,Yorgun olmak
+36,POS_68,positive,Tatlı karpuz
+37,NEG_72,negative,Geç kalmak
+38,NEG_26,negative,Gücenmek
+39,NEU_47,neutral,Eşya
+40,POS_81,positive,Çiçek almak
+41,NEG_80,negative,Kötü filmler
+42,POS_88,positive,Miras kalmak
+43,NEU_69,neutral,Apartman bloğu
+44,NEU_34,neutral,Mutfak önlüğü
+45,POS_90,positive,Babalar Günü
+46,POS_56,positive,Güzel anılar
+47,NEU_66,neutral,Vitrin
+48,NEU_20,neutral,Tuğla duvar
+49,POS_40,positive,On ikiden vurmak
+50,POS_57,positive,Çok sevinmek
+51,NEG_15,negative,Aceleyle verilen karar
+52,POS_75,positive,Neşeli bayramlar
+53,NEU_81,neutral,Sabunluk
+54,NEU_88,neutral,Kafa
+55,POS_35,positive,İlk aşk
+56,POS_31,positive,Kuşların cıvıltısı
+57,NEU_03,neutral,Duvar saati
+58,NEG_68,negative,Aşırı terleme
+59,NEG_04,negative,Öğrenme güçlüğü
+60,POS_08,positive,Parlak sağlıklı saç
+61,NEG_77,negative,Eve hırsız girmesi
+62,POS_58,positive,Eline para geçmesi
+63,NEU_73,neutral,Kamış
+64,NEU_59,neutral,Termosifon
+65,POS_80,positive,Güzel bir hediye
+66,NEG_81,negative,Kendini kötü hissetmek
+67,NEU_67,neutral,Blog yazısı
+68,POS_65,positive,Ormanda yürüyüş
+69,NEG_31,negative,Kovalanmak
+70,POS_52,positive,Evde eğlence
+71,POS_67,positive,Tabiat parkı
+72,NEG_84,negative,Sağlık sorunları
+73,NEU_61,neutral,Tekerlek
+74,POS_51,positive,Lezzetli içecek
+75,POS_17,positive,Sevilmek
+76,POS_49,positive,Bir buluşmaya katılmak
+77,NEG_45,negative,Saç dökülmesi
+78,NEU_79,neutral,Zımba
+79,NEU_60,neutral,Halı
+80,POS_28,positive,Övgü almak
+81,NEG_69,negative,Uçuk
+82,POS_37,positive,Değerli eşya
+83,NEG_23,negative,Berbat bir gün
+84,NEG_65,negative,Burkulmuş el bileği
+85,NEG_21,negative,Ayak kokusu
+86,NEU_02,neutral,Işığı söndürmek
+87,NEU_68,neutral,Çakmak
+88,NEU_71,neutral,Yemek takımı
+89,NEG_11,negative,Uyuşturucu doz aşımı
+90,POS_13,positive,Öne çıkmak
+91,POS_05,positive,Gün doğumunu izlemek
+92,NEU_51,neutral,Tencere
+93,NEG_41,negative,Güneşte yanmak
+94,NEU_85,neutral,Otobüse binmek
+95,NEU_17,neutral,Cadde
+96,POS_45,positive,Denizde yüzmek
+97,NEU_15,neutral,Yorum eklemek
+98,POS_22,positive,Hediye almak
+99,NEU_54,neutral,Paket mendil
+100,POS_14,positive,Kahkahayla gülmek
+101,NEG_27,negative,Uykulu hissetmek
+102,POS_69,positive,Turp gibi sağlıklı olmak
+103,POS_25,positive,Yıldızlı gökyüzü
+104,POS_07,positive,Cesur olmak
+105,NEU_50,neutral,Duvar sıvası
+106,NEG_67,negative,Öfkeli komşu
+107,NEU_52,neutral,Bahçe çiti
+108,POS_01,positive,Sakin bir çevre
+109,POS_47,positive,En sevilen müzik
+110,POS_04,positive,Cömert teklif
+111,NEG_53,negative,Ölümcül hastalık
+112,POS_24,positive,Yeni ilişki
+113,NEU_74,neutral,Tava
+114,NEG_90,negative,Kötü haberler
+115,NEG_17,negative,Takip edilmek
+116,NEU_05,neutral,Çarşaf
+117,NEG_08,negative,Dövülmek
+118,POS_18,positive,Rahatlatıcı banyo
+119,NEU_57,neutral,Hafta ortası
+120,NEG_03,negative,Uykusuz geçen gece
+121,POS_26,positive,Bebek beklemek
+122,NEG_61,negative,İdam cezası
+123,NEU_63,neutral,Kapı pervazı
+124,POS_53,positive,Nefis yemek
+125,NEG_28,negative,Kaybolan telefon numarası
+126,NEU_26,neutral,Kaldırım
+127,NEU_32,neutral,Çizgili kumaş
+128,NEU_24,neutral,Günlük program
+129,NEG_62,negative,Duyusal deneyim yoksunluğu
+130,POS_60,positive,Parktaki çocuklar
+131,POS_84,positive,Kumsal
+132,NEG_35,negative,Sivilceli olmak
+133,POS_06,positive,Ilık bir banyo
+134,NEU_58,neutral,Anahtar çoğaltmak
+135,POS_09,positive,Anneler Günü
+136,POS_10,positive,Sıcacık ve rahat bir oda
+137,NEG_47,negative,Beklenmedik felaket
+138,POS_78,positive,Canlı müzik
+139,POS_61,positive,Sinemaya gitmek
+140,NEG_07,negative,Talihsizlik
+141,POS_48,positive,Şansın yaver gitmesi
+142,NEU_38,neutral,Boya
+143,NEG_51,negative,KYK borcu
+144,NEG_20,negative,Kötü alışkanlık
+145,NEU_10,neutral,Defter
+146,POS_59,positive,Kendini mutlu hissetmek
+147,POS_74,positive,El ele tutuşmak
+148,NEU_86,neutral,Şahıs
+149,NEG_71,negative,Irkçı yorum
+150,NEU_27,neutral,Market
+151,NEG_74,negative,Bilgisayar arızası
+152,NEG_52,negative,Saldırıya uğramak
+153,NEU_53,neutral,Ütü
+154,NEG_36,negative,Yürümeyen ilişki
+155,NEU_56,neutral,Dosya kutusu
+156,NEG_70,negative,Baskıcı rejim
+157,NEU_44,neutral,Pencere contası
+158,NEU_42,neutral,Geçit
+159,NEG_57,negative,Kırgın olmak
+160,POS_36,positive,Mizah anlayışı
+161,NEG_54,negative,Randevuyu kaçırmak
+162,NEU_64,neutral,Ayakkabı çekeceği
+163,NEU_70,neutral,Lamba
+164,NEU_25,neutral,Parke taşı
+165,NEG_88,negative,Hayal kırıklığı
+166,NEU_46,neutral,Vazo
+167,POS_54,positive,Hediye vermek
+168,POS_50,positive,İnanılmaz bir şey
+169,NEG_33,negative,Yolları ayrılmak
+170,NEG_59,negative,Saman nezlesi
+171,NEG_79,negative,Kırık kalp
+172,NEU_62,neutral,Yazıcı kağıdı
+173,POS_39,positive,Krem şantili çilekler
+174,POS_86,positive,Tam bir memnuniyet
+175,NEU_23,neutral,Bir yaprak kağıt
+176,POS_38,positive,İlk tatil
+177,NEG_12,negative,Çürük meyveler
+178,NEG_06,negative,Ciddi hata
+179,NEU_40,neutral,Un ölçü kabı
+180,POS_85,positive,İyimser tutum
+181,NEU_07,neutral,Kapak
+182,NEG_50,negative,Diş ağrısı
+183,POS_27,positive,İyi bir restoranda yemek
+184,NEU_39,neutral,Ağız gargarası
+185,POS_34,positive,Anne sevgisi
+186,POS_03,positive,Maaşı almak
+187,NEG_64,negative,Hasarlı ürün
+188,POS_12,positive,İyi para kazanmak
+189,NEG_55,negative,Engebeli yol
+190,NEG_66,negative,Su basmış ev
+191,POS_83,positive,Harika fikir
+192,NEU_41,neutral,Sakız
+193,NEU_43,neutral,Tezgahtar
+194,NEU_22,neutral,Çerçeve
+195,NEG_85,negative,Enerjisizlik
+196,POS_16,positive,Yılbaşı süsleri
+197,NEG_44,negative,Birbiriyle çatışan topluluk
+198,NEG_46,negative,Bütün gece öksürmek
+199,NEG_09,negative,Ayrılık
+200,NEU_45,neutral,Postacı
+201,NEU_21,neutral,Havlu
+202,NEG_73,negative,Boşanma davası
+203,NEG_83,negative,Çaresiz durum
+204,POS_33,positive,Oynayan çocuklar
+205,POS_89,positive,İyi niyet
+206,POS_72,positive,Çiçek vermek
+207,NEG_78,negative,İntihar girişimi
+208,NEU_06,neutral,Kravat bağlamak
+209,POS_42,positive,Nişan töreni
+210,POS_55,positive,Mangal yapmak
+211,NEU_48,neutral,İp bağlamak
+212,NEG_34,negative,Yiyecek olmaması
+213,NEG_82,negative,Şikayette bulunmak
+214,NEG_19,negative,Başarısız girişim
+215,NEU_33,neutral,Bulaşık deterjanı
+216,NEU_82,neutral,Süpermarkette alışveriş yapmak
+217,NEG_22,negative,Rötarlı tren
+218,NEU_77,neutral,Merdivenlerden inmek
+219,NEG_02,negative,Attan düşmek
+220,NEU_55,neutral,Fosforlu kalem
+221,NEG_25,negative,Toplumdan dışlanmış kişi
+222,POS_02,positive,İyi müzik
+223,NEU_12,neutral,Yüksek çit
+224,NEU_11,neutral,Sofra takımı
+225,NEU_09,neutral,Duş perdesi
+226,POS_79,positive,Müzik konseri
+227,NEG_76,negative,İşitme kaybı
+228,POS_30,positive,Muhteşem bir ses
+229,POS_44,positive,En sevilen tablo
+230,POS_21,positive,Kibar davranmak
+231,NEU_16,neutral,Cam kase
+232,NEU_08,neutral,Kitap ayracı
+233,NEG_16,negative,Mutsuz olmak
+234,NEG_49,negative,Çamurlu ayakkabılar
+235,NEU_36,neutral,Kağıt havlular
+236,POS_77,positive,Tiyatroya gitmek
+237,NEU_49,neutral,Kurşun kalem
+238,POS_11,positive,Yeni kıyafetler
+239,NEG_14,negative,Epilepsi nöbeti
+240,POS_71,positive,İyi karar
+241,NEG_56,negative,Küresel felaket
+242,POS_15,positive,Hoş bir ortam
+243,NEU_14,neutral,Karton
+244,NEU_29,neutral,Baz istasyonu
+245,NEU_78,neutral,Banyo paspası
+246,NEG_18,negative,Sivrisinek ısırığı
+247,NEG_30,negative,Yanık
+248,NEU_18,neutral,Mobilya cilalamak
+249,NEU_83,neutral,Kalem açmak
+250,NEU_35,neutral,Yazı tahtası
+251,NEG_86,negative,Kopmuş parmak
+252,NEG_43,negative,Tıraş kesiği
+253,POS_73,positive,Nazik bir kadın garson
+254,POS_19,positive,Yeni ayakkabı satın almak
+255,POS_63,positive,Arkadaşlarla yemek
+256,NEG_89,negative,Uyum sağlayamamak
+257,NEU_37,neutral,Arazi
+258,NEG_37,negative,Para kaybı
+259,NEG_01,negative,Kavga
+260,POS_32,positive,Kuş tüyü yastık
+261,POS_64,positive,Türk bayrağı
+262,POS_29,positive,Güzel manzara
+263,NEU_90,neutral,Plastik çatal bıçak takımı
+264,NEU_30,neutral,Kapıyı açmak
+265,NEG_05,negative,Doktora gitmek
+266,NEU_80,neutral,Naylon poşet
+267,NEU_65,neutral,Masa
+268,NEU_04,neutral,Kibrit kutusu
+269,NEG_63,negative,Buz gibi hava
+270,NEU_72,neutral,Gardırop

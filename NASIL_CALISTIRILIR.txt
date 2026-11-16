@@ -1,0 +1,61 @@
+STUDY 1 – DENEYİ ÇALIŞTIRMA KILAVUZU (Windows ve Mac)
+=====================================================
+
+1) PSYCHOPY'I KURUN (bir kez)
+   - https://www.psychopy.org/download.html adresinden "PsychoPy Standalone" sürüm 2026.2.4'ü indirin.
+   - Windows: indirilen .exe kurulum dosyasını çalıştırıp adımları izleyin.
+   - Mac: PsychoPy'ı Uygulamalar (Applications) klasörüne sürükleyin. İlk açılışta Mac klavye izni sorarsa:
+     Sistem Ayarları > Gizlilik ve Güvenlik > "Giriş İzleme" (Input Monitoring) ve "Erişilebilirlik"
+     (Accessibility) bölümlerinde PsychoPy'ı açın, sonra PsychoPy'ı kapatıp yeniden açın.
+     (Bu izin verilmezse tuş basışları kaydedilmez.)
+   Başka hiçbir şey kurmanız gerekmez.
+
+2) DENEY KLASÖRÜNÜ YERLEŞTİRİN
+   - ZIP dosyasını açın ve "Study1_Experiment" klasörünü örneğin Belgeler (Documents) klasörüne koyun.
+   - Klasörü, deney sırasında eşitleme yapan bir OneDrive/Dropbox klasörünün içine koymamanız önerilir.
+
+3) KURULUMU KONTROL EDİN (1 dakika)
+   - PsychoPy'ı açın. Builder penceresi açılırsa üst menüden View > Coder ile Coder penceresine geçin.
+   - File > Open ile Study1_Experiment klasöründeki "test_design.py" dosyasını açın.
+   - Yeşil "Run" (Çalıştır) düğmesine basın.
+   - Alttaki çıktı panelinin sonunda "59/59 checks passed" yazmalıdır.
+
+4) DENEYİ DENEYİN (pilot, yaklaşık 2 dakika)
+   - File > Open ile "study1_vigilance.py" dosyasını açıp Run'a basın.
+   - Açılan pencerede:
+       Katılımcı no : P01        (deneme için harf içeren bir numara)
+       Mod          : Pilot (10 deneme x 2 koşul)
+       Koşul        : değiştirmeyin
+   - OK'a basınca deney tam ekran açılır: önce yönerge, sonra A koşulundan 10 slayt, B koşulundan 10 slayt,
+     en sonda deney sonu soruları.
+
+   Tuşlar:
+       M       = dikey çizgiler görüldüğünde
+       BOŞLUK  = aklınıza bir düşünce geldiğinde (görev durur, sorular gelir, sonra devam eder)
+       ESC     = deneyi durdurmak için (onay ister; ESC'ye ikinci kez basınca kapanır, veriler kaydedilir)
+   Sorularda: yazıp ENTER'a basın; 1-5 sorularında 1-5 tuşuna basın ya da kutuya tıklayın.
+   Bitiş ekranından ESC ile çıkılır.
+
+5) GERÇEK KATILIMCIYLA
+   - Aynı şekilde study1_vigilance.py > Run.
+   - Katılımcı no: 1, 2, 3 ... (yalnızca rakam). Mod: Ana deney. Koşul: Otomatik.
+     Tek numaralar A grubuna, çift numaralar B grubuna gider.
+   - Sıra: demografik sorular > yönerge > 20 slaytlık alıştırma > 800 slaytlık görev (yaklaşık 20 dakika +
+     düşünce soruları) > deney sonu soruları > teşekkür ekranı.
+
+6) VERİLER NEREDE?
+   - Study1_Experiment/data klasöründe. Her katılımcı için bir Excel dosyası oluşur:
+     S1_<no>_<grup>_<tarih>.xlsx  (sayfalar: ozet, basislar, m_basislari, hedefler, slaytlar, son_sorular,
+     sutun_aciklamalari - son sayfa her sütunun ne anlama geldiğini Türkçe açıklar)
+   - data/all_sessions.csv: her oturum için bir satırlık özet.
+
+7) SORUN OLURSA
+   - Mac'te tuşlar çalışmıyor: 1. adımdaki "Giriş İzleme" ve "Erişilebilirlik" izinlerini kontrol edin.
+   - Windows'ta: deney sürerken data/all_sessions.csv dosyasını Excel'de açık bırakmayın.
+     (Açık kalırsa deney yine düzgün biter, o oturumun satırı ayrı bir dosyaya yazılır.)
+   - "PsychoPy sürümü" uyarısı: bilgisayardaki PsychoPy eski demektir, 2026.2.4'ü kurun.
+   - "Katılımcı no" uyarısı: numarada boşluk, / : * ? gibi işaretler kullanmayın.
+   - Çıktı panelinde "slide frames came late" uyarısı: bilgisayar yavaş kalmıştır,
+     diğer programları kapatıp tekrar deneyin.
+
+Ayrıntılı (İngilizce) açıklama: README.md
